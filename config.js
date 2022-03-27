@@ -5,7 +5,7 @@ global.autoread = false
 global.selfmode = false
 global.autobio = false // or node . --autobio
 global.thumb = './thumb/itsuki.jpg'
-global.fakereplyt = 'Rikka-Botz WhatsApp'
+global.fakereplyt = 'Rikka-Bot WhatsApp'
 global.mess = {
 group : {
 welcome : `Welcome @user\n\nSelamat datang di grup @subject`,
@@ -26,13 +26,13 @@ global.packname = 'WhatsApp Bot'
 global.APIs = { // API Prefix
 
   clph: 'https://recoders-area.caliph.repl.co',
-  rikka: 'https://rikka-api.xyz',
+  rikka: 'https://caliphapi.com',
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
   lol: 'https://api.lolhuman.xyz',
   vh: 'http://api.vhtear.com',
   zeks: 'https://api.zeks.me',
-  caliphAPI: 'https://api.caliph71.xyz'
+  caliphAPI: 'https://caliphapi.com'
 }
 
 global.APIKeys = { // APIKey Here
@@ -41,8 +41,7 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'YOUR-APIKEY'
 ,
   'https://api.zeks.me': 'rikkabotwa',
-  'https://rikka-api.xyz': 'free5d', // chat wa.me/62882003806038 to buy apikey
-   'https://api.caliph71.xyz': 'free5d' // chat wa.me/62882003806038 to buy apikey
+   'https://https://caliphapi.com': 'yntkts' 
 }
 
 let file = require.resolve(__filename)
