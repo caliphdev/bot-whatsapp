@@ -41,7 +41,7 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'YOUR-APIKEY'
 ,
   'https://api.zeks.me': 'rikkabotwa',
-   'https://https://caliphapi.com': 'yntkts' 
+   'https://caliphapi.com': 'yntkts' 
 }
 
 let file = require.resolve(__filename)
