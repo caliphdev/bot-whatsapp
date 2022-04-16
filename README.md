@@ -2,17 +2,17 @@
 
 
 <p align="center">
-<img src="https://github.com/caliph91.png" width="128" height="128"/>
+<img src="https://github.com/caliphdev.png" width="128" height="128"/>
 </p>
 
 
 <p align="center">
-  <a href="//github.com/caliph91/bot-whatsapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caliph91&repo=bot-whatsapp&theme=tokyonight" />
+  <a href="//github.com/caliphdev/bot-whatsapp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caliphdev&repo=bot-whatsapp&theme=tokyonight" />
    </a>
 </p>
 <p align="center">
-<a href="//github.com/caliph91"><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
+<a href="//github.com/caliphdev"><img src="https://img.shields.io/badge/Author-Caliph-red.svg?style=for-the-badge&logo=github"/><a/>
 </p>
 <p align="center">
 <a href="https://javascript.com"><img src="https://img.shields.io/badge/Made%20With-javascript-cyan.svg?style=for-the-badge&logo=javascript"/><a/>
@@ -23,7 +23,7 @@
 # Termux
 ```bash
 > pkg install git -y
-> git clone https://github.com/caliph91/bot-whatsapp
+> git clone https://github.com/caliphdev/bot-whatsapp
 > cd bot-whatsapp
 > bash install.sh
 > node index
@@ -32,7 +32,7 @@
 # Ubuntu
 ```bash
 > sudo apt install git -y
-> sudo git clone https://github.con/caliph91/bot-whatsapp
+> sudo git clone https://github.com/caliphdev/bot-whatsapp
 > sudo cd bot-whatsapp
 > sudo bash root.sh
 > sudo node index
@@ -44,11 +44,11 @@
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-* [Tesseract](https://clph.pw/tesseract)
+* [Tesseract](https://clp.pw/tesseract)
 * Any text editor
 
 ## 🧾 Installing the Tesseract
-* Download the file [here](https://clph.pw/tesseract).
+* Download the file [here](https://clp.pw/tesseract).
 * After that, run downloaded file as Administrator.
 * Complete the installation.
 * Run Command Prompt as Administrator.
@@ -103,7 +103,7 @@ PM2 with cron job (restart after 5 hours):
 After that scan the QR code using your WhatsApp in your phone!
 
 ## Group
-* <a href="https://clph.pw/gcwa"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://clp.pw/gcbot"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 # Thanks to
 * [`adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
